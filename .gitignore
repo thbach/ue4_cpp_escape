@@ -82,5 +82,8 @@ Content/StarterContent/*
 
 # VSCode Files
 /.vscode/*
+
+# project
+Textures
 BuildingEscape.code-workspace
 
